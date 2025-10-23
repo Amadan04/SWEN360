@@ -1,0 +1,14 @@
+Functional requirements:
+FR1 user registration: The system should allow new users to register with a valid university email
+FR2 email verification: The system should verify the user's email by sending a verification link to the user's email 
+FR3: Login/logout: The system should allow users to log in and log out securely
+FR4 Role selection: The system should allow the user to select the role of each user, either driver or rider 
+FR5 post ride: driver must be able to create rides and specify destination and time. 
+FR6 view rides: passengers must be able to see the available rides and filter.
+FR7 Book a ride: passengers can send a ride request to the drivers and receive confirmation or cancellation 
+FR8 cancel ride: either the passenger or driver can cancel the booked ride
+FR 9 notifications: users should have an in-app message whether the ride is confirmed or canceled
+FR 10 chat system: driver and passengers can chat with each other after the ride is booked 
+FR 11 Female-only filter: female users can filter rides offered by female drivers, and this option is only allowed to female users 
+FR12 Profile Verification: Display verification badge for verified driver IDs and licenses.
+
