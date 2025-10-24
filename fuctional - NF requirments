@@ -9,6 +9,16 @@ FR7 Book a ride: passengers can send a ride request to the drivers and receive c
 FR8 cancel ride: either the passenger or driver can cancel the booked ride
 FR 9 notifications: users should have an in-app message whether the ride is confirmed or canceled
 FR 10 chat system: driver and passengers can chat with each other after the ride is booked 
-FR 11 Female-only filter: female users can filter rides offered by female drivers, and this option is only allowed to female users 
+FR 11 Female-only filter: female users can filter rides offered by female drivers, and this option is only available to female users 
 FR12 Profile Verification: Display verification badge for verified driver IDs and licenses.
 
+-----------------Non-Functional requirments-------------------------------------------------------------------
+
+-Performance: System should respond within 2-3 seconds for common user actions 
+-Security: all sensitive data and passwords must be encrypted and accessed via verified emails
+-Usability: The app must have a clean and intuitive interface usable on both mobile and desktop
+-Scalability: The backend supports at least 500 users 
+-Availability: The system should maintain 99 % uptime during the semester.
+-Reliability: Booking and ride data must remain consistent even under network interruptions
+-privacy: Personal data like email, ID, and name must be visible only to authorized users 
+-Maintainability: source code must follow a modular design or principles to support updates 
