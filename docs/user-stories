@@ -1,1 +1,25 @@
+Group User Scenario 1: User Registration and Login
+US1: As a student, I want to register in the app using my university email so that only verified students can access the system.
+Acceptance Criteria: The sign-up page requires a university email and a strong password. Upon registration, users receive a verification message to confirm their email.
+US2: As a user, I want to select my role as driver, rider, or both during initial login with the option to change the role later.
+US3: As a user, I want secure, quick login access with appropriate error feedback for invalid credentials and have a “forgot password” feature that sends a reset link to my university email.
+
+Group User Scenario 2: Ride Posting (Driver)
+US4: As a driver, I want to post a ride with details like start point, destination, date, time, and available seats so passengers can discover and book the ride.
+Acceptance Criteria: Required fields include start location, destination, future date/time, and number of seats (>1). Posted rides appear in “Available Rides” showing available seats.
+US5: As a driver, I want to receive notifications when passengers request bookings and have the ability to accept or decline these requests.
+
+Group User Scenario 3: Ride Booking and Matching (Passenger)
+US6: As a passenger, I want to browse and filter available rides that match my destination and preferred time window with details like driver name, seats left, time, and estimated price visible.
+US7: As a passenger, I want to receive confirmation when the driver accepts a booking; if no seats are left, booking requests should be blocked and status updated to pending, confirmed, or declined appropriately.
+US8: As a passenger, I want to cancel a booking up to a specified time before start, notifying the driver immediately about my cancellation.
+US9: As a passenger, I want to view detailed driver information including name, university ID, car type, color, plate number, and rating to build trust in the matching process.
+
+Group User Scenario 4: Safety Features and Verification
+US10: As a female passenger, I want to have a filter so I can book rides only with verified female drivers for safety and comfort.
+US11: As a user, I want to see verified driver's university ID and license badges on their profile and ride listings to ensure authenticity and security.
+
+Group User Scenario 5: Communication and Notifications
+US12: As a user, I want to chat with my driver through the app after a booking exists, with the ability to report inappropriate chat content to maintain safe communication.
+US13: As a user, I want to receive in-app notifications for ride status changes such as confirmations, cancellations, or declines, ensuring timely awareness for both drivers and passengers.
 
