@@ -1,4 +1,4 @@
-# University Carpooling & Ride Sharing App
+# University Carpooling/Ride Sharing App
 
 This repository hosts the initial assets and documentation for the University Carpooling & Ride Sharing app, aimed at providing a secure and user-friendly platform for students to share rides within the university community.
 
