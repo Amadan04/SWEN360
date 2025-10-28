@@ -1,1 +1,58 @@
+Stand-up #1 (October 2, 2025, 3 PM – 3:30 PM)
+Main Objective: Kick-off Sprint 1, confirm team roles and clarify initial tasks.
+Discussion: Team members reported they read project files before the meeting. Abdulla and Yousif talked about backend logic ideas, focusing on user registration and email verification as concepts for future work. Mohamed brought early sketches of the registration page wireframe.
+Progress: The team physically set up a Kanban board to organize tasks visually and assign responsibilities. Everyone agreed on priorities and started filling the backlog.
+Plans: The priority was to create a GitHub repository for version control before coding starts. The next meeting was set for October 5 to review progress on user stories and front-end design ideas.
+Additional: Created a WhatsApp group for ongoing communication and quick updates outside meetings.
+
+Stand-up #2 (October 5, 2025, 3 PM – 3:30 PM)
+Main Objective: Develop and finalize early user stories; map basic front-end page flow.
+Discussion: Six main user stories (US1-US6) were discussed and agreed upon, including user sign-up, login, and role selection. Acceptance criteria for each were added and refined. Mohamed presented proposed page sequences showing transitions like ride posting and driver rating.
+Progress: Abdulla and Yousif discussed backend repository folder structures as a conceptual plan aligned with future API routes. The Kanban board was updated both physically and in the digital master copy to reflect new tasks.
+Plans: Focus on improving and finalizing acceptance criteria and preparing for backend architectural discussions in future meetings.
+Additional: Emphasized the need to keep physical and digital Kanban boards synchronized for team awareness.
+
+
+
+Stand-up #3 (October 9, 2025, 3 PM – 3:30 PM)
+Main Objective: Add more user stories and start drafting system requirements.
+Discussion: New user stories (US7–US12) covering ride booking, female-only filters for safety, and chat functions were drafted and reviewed for scope completeness. The programming language for the project was chosen after evaluating options. Abdulla shared a proposed API route map concept linked to these stories for peer discussion.
+Progress: Functional and non-functional requirements (performance, security, privacy) were drafted to guide later development phases.
+Plans: Finalize all requirements docs and begin detailed API skeleton design discussions at upcoming meetings.
+Additional: All new tasks were added to both Kanban boards to maintain alignment.
+
+Stand-up #4 (October 12, 2025, 3 PM – 3:30 PM)
+Main Objective: Track progress on wireframes and start formal documentation.
+Discussion: Mohamed reviewed wireframe drafts for core screens, seeking team feedback to improve usability and visual flow, especially for booking and driver profiles. Documentation of user stories and requirements began, coordinated by Ghadah.
+Progress: Architectural discussions about backend separation and API endpoints took place without actual coding, laying out general structure for future development. The team debated pros and cons of local and cloud data synchronization for ride and booking data.
+Plans: Continue to parallel advance documentation, wireframe refinement, and backend planning without immediate coding.
+Additional: Discussed maintaining Kanban integrity and readiness for upcoming review cycles.
+
+Stand-up #5 (October 16, 2025, 3 PM – 3:30 PM)
+Main Objective: Review and enhance drafted user stories and system requirements.
+Discussion: The team discussed missing details like cancellation windows and notification strategies, aiming to cover all realistic user scenarios. Mohamed shared feedback from UI responsiveness and accessibility checks with changes planned to support diverse devices.
+Progress: Abdulla and Yousif outlined data model ideas and API workflow constraints conceptually. No coding work was done yet.
+Plans: Prepare documentation drafts for peer review and consolidate non-functional requirements.
+Additional: Ghadah continued monitoring progress on Kanban and helping identify possible blockers early.
+
+Stand-up #6 (October 19, 2025, 3 PM – 3:30 PM)
+Main Objective: Near completion of documentation and wireframes; prepare for retrospective.
+Discussion: Conducted gap analysis in user stories and UI designs, identifying acceptance criteria and usability aspects needing further clarification.
+Progress: Wireframes and documents were in advanced draft form, undergoing multi-member review for completeness.
+Plans: Focus on final edits and preparing materials for the sprint retrospective.
+Additional: Kanban board updates showed the majority of tasks progressing toward done status.
+
+Stand-up #7 (October 23, 2025, 3 PM – 3:30 PM)
+Main Objective: Confirm completeness of sprint deliverables and finalize planning notes.
+Discussion: All planned user stories had defined acceptance criteria and were reviewed by the team. Final wireframes were completed by Mohamed for integration into documentation. Abdulla and Yousif wrapped up backend conceptual notes.
+Progress: Kanban boards, both physical and digital, accurately reflected completion status, and obsolete cards were archived.
+Plans: Assign final polishing tasks and prepare for sprint closure activities.
+Additional: Team reflected on how to improve estimation and teamwork in the next sprint.
+
+Stand-up #8 (October 28, 2025, 3 PM – 3:30 PM)
+Main Objective: Wrap up sprint documentation and prepare for retrospective.
+Discussion: Reviewed all outstanding documentation for final edits. Mohamed prepared wireframe exports for submission. GitHub repository contents were verified for inclusion of all planning documents.
+Progress: The digital Kanban board was fully synchronized and updated with archival of done tasks.
+Plans: Document sprint retrospective observations and define action points to improve workflow and backlog management in future sprints.
+Additional: Abdulla and Yousif decided on an initial directory structure for the GitHub repo consisting of folders for API design, user stories, wireframes, and documentation as the foundation for upcoming coding activities. The team celebrated achieving around 80% of planned work despite challenges such as academic commitments.
 
